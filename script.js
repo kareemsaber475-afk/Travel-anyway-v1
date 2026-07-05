@@ -1,10 +1,10 @@
 const heroImage = document.getElementById("heroImage");
 
 const images = [
-    "images/hero1.jpg",
-    "images/hero2.jpg",
-    "images/hero3.jpg",
-    "images/hero4.jpg"
+    "hero1.jpg",
+    "hero2.jpg",
+    "hero3.jpg",
+    "hero4.jpg"
 ];
 
 let currentImage = 0;
